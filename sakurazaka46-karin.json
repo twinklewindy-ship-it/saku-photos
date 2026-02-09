@@ -2,9 +2,9 @@
   "magic": "my-ideals-template",
   "version": 1,
   "revision": 1,
-  "id": "sakurazaka46-karin",
-  "name": "櫻坂46 生写真 - 藤吉夏鈴",
-  "description": "櫻坂46 藤吉夏鈴 全单系列生写真整理",
+  "id": "saku-karin-web",
+  "name": "櫻坂46 - 藤吉夏鈴",
+  "description": "藤吉夏鈴 樱坂46PART全生写收集",
   "link": "https://github.com/twinklewindy-ship-it/saku-photos",
   "author": "Jackie",
   "imageResourceType": "baseUrl",
@@ -201,7 +201,7 @@
     },
     {
       "id": "saku-019",
-      "name": "「流れ弾」MV黑衣装",
+      "name": "「流れ弾」MV黒衣装",
       "items": [
         { "id": "saku-019-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
         { "id": "saku-019-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
@@ -534,4 +534,800 @@
       "name": "カラーコーデ",
       "items": [
         { "id": "saku-052-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
-        { "id": "saku-052-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "
+        { "id": "saku-052-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-052-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-052-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-053",
+      "name": "「3rd TOUR 2023」オープニング衣装",
+      "items": [
+        { "id": "saku-053-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-053-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-053-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-053-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-054",
+      "name": "大正浪漫衣装",
+      "items": [
+        { "id": "saku-054-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-054-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-054-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-054-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-055",
+      "name": "「Start over！」ジャケ写衣装",
+      "items": [
+        { "id": "saku-055-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-055-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-055-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-055-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-056",
+      "name": "「Start over！」MV衣装",
+      "items": [
+        { "id": "saku-056-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-056-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-056-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-056-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-057",
+      "name": "サマーワンピース",
+      "items": [
+        { "id": "saku-057-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-057-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-057-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-057-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-058",
+      "name": "「ドローン旋回中」MV衣装",
+      "items": [
+        { "id": "saku-058-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-058-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-058-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-058-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-059",
+      "name": "「W-KEYAKI FES.2022」赤ピンク衣装",
+      "items": [
+        { "id": "saku-059-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-059-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-059-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-059-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-060",
+      "name": "デニムコーデ",
+      "items": [
+        { "id": "saku-060-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-060-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-060-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-060-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-061",
+      "name": "2023年ハロウィン衣装",
+      "items": [
+        { "id": "saku-061-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-061-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-061-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-061-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-062",
+      "name": "2023年クリスマスサンタ衣装★",
+      "items": [
+        { "id": "saku-062-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-062-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-062-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-062-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-063",
+      "name": "「3rd TOUR 2023」白スーツ衣装",
+      "items": [
+        { "id": "saku-063-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-063-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-063-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-063-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-064",
+      "name": "2023年夏フェス衣装",
+      "items": [
+        { "id": "saku-064-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-064-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-064-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-064-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-065",
+      "name": "2023年読書コーデ",
+      "items": [
+        { "id": "saku-065-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-065-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-065-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-065-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-066",
+      "name": "2024年振袖衣装",
+      "items": [
+        { "id": "saku-066-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-066-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-066-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-066-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-067",
+      "name": "2022年年末歌唱衣装",
+      "items": [
+        { "id": "saku-067-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-067-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-067-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-067-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-068",
+      "name": "「承認欲求」ジャケ写衣装",
+      "items": [
+        { "id": "saku-068-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-068-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-068-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-068-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-069",
+      "name": "「承認欲求」MV衣装",
+      "items": [
+        { "id": "saku-069-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-069-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-069-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-069-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-070",
+      "name": "おうちコーデ",
+      "items": [
+        { "id": "saku-070-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-070-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-070-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-070-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-071",
+      "name": "「隙間风よ」MV衣装",
+      "items": [
+        { "id": "saku-071-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-071-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-071-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-071-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-072",
+      "name": "「Start over！」歌唱衣装",
+      "items": [
+        { "id": "saku-072-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-072-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-072-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-072-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-073",
+      "name": "ジャンプスーツ",
+      "items": [
+        { "id": "saku-073-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-073-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-073-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-073-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-074",
+      "name": "「3rd TOUR 2023」ピンク衣装",
+      "items": [
+        { "id": "saku-074-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-074-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-074-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-074-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-075",
+      "name": "「3rd YEAR ANNERVISRY LIVE」ライブ衣装★",
+      "items": [
+        { "id": "saku-075-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-075-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-075-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-075-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-076",
+      "name": "「何歳の頃に戻りたいのか？」ジャケ写衣装",
+      "items": [
+        { "id": "saku-076-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-076-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-076-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-076-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-077",
+      "name": "2024年春私服コーデ",
+      "items": [
+        { "id": "saku-077-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-077-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-077-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-077-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-078",
+      "name": "「何歳の頃に戻りたいのか？」MV衣装",
+      "items": [
+        { "id": "saku-078-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-078-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-078-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-078-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-079",
+      "name": "「小林由依卒業コンサート」ライブ衣装",
+      "items": [
+        { "id": "saku-079-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-079-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-079-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-079-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-080",
+      "name": "カラーデニム",
+      "items": [
+        { "id": "saku-080-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-080-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-080-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-080-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-081",
+      "name": "2024年浴衣★",
+      "items": [
+        { "id": "saku-081-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-081-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-081-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-081-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-082",
+      "name": "「小林由依卒業コンサート」赤衣装",
+      "items": [
+        { "id": "saku-082-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-082-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-082-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-082-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-083",
+      "name": "「3rd TOUR 2023」ライブ衣装",
+      "items": [
+        { "id": "saku-083-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-083-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-083-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-083-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-084",
+      "name": "麦わら帽子コーデ",
+      "items": [
+        { "id": "saku-084-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-084-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-084-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-084-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-085",
+      "name": "2023年年末歌唱衣装",
+      "items": [
+        { "id": "saku-085-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-085-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-085-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-085-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-086",
+      "name": "「自業自得」ジャケ写衣装",
+      "items": [
+        { "id": "saku-086-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-086-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-086-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-086-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-087",
+      "name": "「自业自得」MV衣装",
+      "items": [
+        { "id": "saku-087-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-087-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-087-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-087-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-088",
+      "name": "「4thアリツ 2024」ライブ衣装",
+      "items": [
+        { "id": "saku-088-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-088-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-088-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-088-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-089",
+      "name": "2024年ハロウィン衣装",
+      "items": [
+        { "id": "saku-089-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-089-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-089-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-089-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-090",
+      "name": "カラーニットコーデ",
+      "items": [
+        { "id": "saku-090-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-090-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-090-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-090-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-091",
+      "name": "2024年クリスマスサンタ衣装★",
+      "items": [
+        { "id": "saku-091-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-091-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-091-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-091-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-092",
+      "name": "「3rd YEAR ANNERVISRY LIVE」ライブ衣装",
+      "items": [
+        { "id": "saku-092-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-092-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-092-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-092-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-093",
+      "name": "「4th ARENA TOUR in東京ドーム」オープニング衣装",
+      "items": [
+        { "id": "saku-093-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-093-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-093-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-093-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-094",
+      "name": "どうぶつ着ぐるみ",
+      "items": [
+        { "id": "saku-094-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-094-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-094-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-094-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-095",
+      "name": "マフラーコーデ",
+      "items": [
+        { "id": "saku-095-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-095-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-095-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-095-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-096",
+      "name": "「I want tomorrow to come」 ジャケ写衣装",
+      "items": [
+        { "id": "saku-096-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-096-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-096-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-096-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-097",
+      "name": "「I want tomorrow to come」 MV衣装",
+      "items": [
+        { "id": "saku-097-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-097-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-097-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-097-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-098",
+      "name": "2025年振袖",
+      "items": [
+        { "id": "saku-098-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-098-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-098-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-098-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-099",
+      "name": "2023年年末衣装",
+      "items": [
+        { "id": "saku-099-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-099-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-099-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-099-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-100",
+      "name": "いぬみみコーデ",
+      "items": [
+        { "id": "saku-100-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-100-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-100-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-100-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-101",
+      "name": "「UDAGAWA GENERATION」ジャケ写衣装",
+      "items": [
+        { "id": "saku-101-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-101-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-101-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-101-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-102",
+      "name": "「UDAGAWA GENERATION」MV衣装",
+      "items": [
+        { "id": "saku-102-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-102-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-102-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-102-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-103",
+      "name": "2024年夏フェス衣装",
+      "items": [
+        { "id": "saku-103-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-103-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-103-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-103-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-104",
+      "name": "モードコーデ",
+      "items": [
+        { "id": "saku-104-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-104-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-104-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-104-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-105",
+      "name": "「4th ARENA TOUR」オープニング衣装",
+      "items": [
+        { "id": "saku-105-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-105-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-105-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-105-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-106",
+      "name": "「4th  YEAR ANNERVISRY LIVE」ライブ衣装★",
+      "items": [
+        { "id": "saku-106-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-106-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-106-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-106-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-107",
+      "name": "「4th  ARENA TOUR」ライブ衣装",
+      "items": [
+        { "id": "saku-107-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-107-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-107-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-107-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-108",
+      "name": "ネクタイコーデ",
+      "items": [
+        { "id": "saku-108-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-108-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-108-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-108-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-109",
+      "name": "「Addiction」MV衣装",
+      "items": [
+        { "id": "saku-109-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-109-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-109-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-109-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-110",
+      "name": "レザージャケットコーデ",
+      "items": [
+        { "id": "saku-110-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-110-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-110-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-110-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-111",
+      "name": "2025年浴衣★",
+      "items": [
+        { "id": "saku-111-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-111-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-111-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-111-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-112",
+      "name": "「4th ARENA TOUR IN 東京ド-ム」ライプ衣装",
+      "items": [
+        { "id": "saku-112-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-112-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-112-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-112-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-113",
+      "name": "2024年夏フェス衣装",
+      "items": [
+        { "id": "saku-113-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-113-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-113-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-113-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-114",
+      "name": "ポロシャツコーデ",
+      "items": [
+        { "id": "saku-114-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-114-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-114-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-114-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-115",
+      "name": "「Make or Break」ジャケ写衣装",
+      "items": [
+        { "id": "saku-115-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-115-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-115-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-115-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-116",
+      "name": "「Make or Break」MV衣装 A",
+      "items": [
+        { "id": "saku-116-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-116-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-116-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-116-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-117",
+      "name": "「Make or Break」MV衣装 B",
+      "items": [
+        { "id": "saku-117-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-117-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-117-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-117-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-118",
+      "name": "クラシックコーデ",
+      "items": [
+        { "id": "saku-118-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-118-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-118-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-118-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-119",
+      "name": "「5th TOUR 2025 “Addiction”」ライブ衣装",
+      "items": [
+        { "id": "saku-119-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-119-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-119-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-119-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-120",
+      "name": "チェックコーデ",
+      "items": [
+        { "id": "saku-120-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-120-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-120-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-120-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-121",
+      "name": "パイレーツ衣装",
+      "items": [
+        { "id": "saku-121-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-121-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-121-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-121-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-122",
+      "name": "「5th TOUR 2025 “Addiction”」黒衣装",
+      "items": [
+        { "id": "saku-122-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-122-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-122-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-122-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-123",
+      "name": "「Unhappy birthday構文」ジャケット写真衣装",
+      "items": [
+        { "id": "saku-123-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-123-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-123-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-123-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-124",
+      "name": "「Unhappy birthday構文」MV衣装 A",
+      "items": [
+        { "id": "saku-124-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-124-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-124-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-124-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-125",
+      "name": "「Unhappy birthday構文」MV衣装 B",
+      "items": [
+        { "id": "saku-125-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-125-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-125-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-125-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-126",
+      "name": "冬服",
+      "items": [
+        { "id": "saku-126-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-126-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-126-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-126-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-127",
+      "name": "2025年サンタ装★",
+      "items": [
+        { "id": "saku-127-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-127-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-127-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-127-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-128",
+      "name": "2026年 振袖",
+      "items": [
+        { "id": "saku-128-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-128-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-128-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-128-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-129",
+      "name": "スタイリング制服",
+      "items": [
+        { "id": "saku-129-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-129-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-129-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-129-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-130",
+      "name": "2026年 バレンタインコーデ",
+      "items": [
+        { "id": "saku-130-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-130-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-130-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-130-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    },
+    {
+      "id": "saku-131",
+      "name": "ジャージ",
+      "items": [
+        { "id": "saku-131-fujiyoshi-karin-yori", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヨリ" },
+        { "id": "saku-131-fujiyoshi-karin-chuu", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 チュウ" },
+        { "id": "saku-131-fujiyoshi-karin-suwari", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 座り" },
+        { "id": "saku-131-fujiyoshi-karin-hiki", "member": "fujiyoshi-karin", "name": "藤吉夏鈴 ヒキ" }
+      ]
+    }
+  ]
+}
