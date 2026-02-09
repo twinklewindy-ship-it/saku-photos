@@ -2,14 +2,14 @@
   "magic": "my-ideals-template",
   "version": 1,
   "revision": 1,
-  "id": "saku-karin-web",
+  "id": "saku-karin",
   "name": "櫻坂46 - 藤吉夏鈴",
   "description": "藤吉夏鈴 樱坂46PART全生写收集",
   "link": "https://github.com/twinklewindy-ship-it/saku-photos",
   "author": "Jackie",
   "imageResourceType": "baseUrl",
   "imageBaseUrl": {
-    "root": "https://raw.githubusercontent.com/twinklewindy-ship-it/saku-photos/main/images",
+    "root": "https://raw.githubusercontent.com/twinklewindy-ship-it/saku-photos/main/saku-karin-images",
     "format": "jpg"
   },
   "members": [
